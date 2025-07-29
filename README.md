@@ -1,51 +1,43 @@
 # 🛠️ System Administrator | IT Infrastructure Specialist
 
 Welcome to my GitHub profile! I’m a System Administrator with 7+ years of experience in managing and maintaining IT infrastructure, including Windows, Active Directory, virtualization platforms.
-
 ---
-
 ## 👨‍💻 About Me
 
-- 🔧 Experienced in Windows Server, Active Directory, Group Policy, DNS/DHCP, File Services
-- ☁️ Skilled in Azure, Office 365, VMware vSphere/ESXi, Hyper-V
-- 🛡️ Expertise in system hardening, patching, monitoring & backup solutions
-- 📈 Focused on system uptime, performance tuning, and incident response
-
+ System Administrator with 7+ Years of work experience in managing and maintaining IT infrastructure.
+ Technical knowledge & proficiency Administering, Windows servers (2012/2016/2019/2022,) installation and configuring their roles and features like Active Directory, Group Policy, DNS, DHCP, File Server, DFS, FSRM, WDS, IIS, Print Server and Windows Server Backup Upgrade Windows server, Windows Server and AD Migration, RAID configuration, Hyper-V, NIC Teaming
 ---
-
 ## 🧰 Skills
 
-| Category             | Tools & Technologies                          |
-|----------------------|------------------------------------------------|
-| **OS Platforms**     | Windows Server, Ubuntu, CentOS, Red Hat       |
-| **Virtualization**   | VMware ESXi, vCenter, Hyper-V                 |
-| **Cloud Platforms**  | Microsoft Azure, O365, Azure AD, AWS (basic)  |
-| **Automation**       | PowerShell, Bash, Ansible                     |
-| **Monitoring**       | Zabbix, Nagios, PRTG                          |
-| **Backup & Recovery**| Veeam, Acronis, Windows Backup                |
-| **Networking**       | DNS, DHCP, VPN, TCP/IP, Firewall basics       |
-
+|Windows Operating Systems (Windows 7, Windows10, Windows 11)
+ Windows Server (2012/2016/2019/2022)
+ Active Directory, DNS, DHCP, File Services, Group Policy, WDS, Print Server, DFS, FSRM etc…
+ VMware vSphere, ESXi, vCenter / Hyper-V
+ Commvault Backup
+ Patch Management (Manage Engine Endpoint Central)
+ Monitoring Tools: (OP Manager)
+ SQL Server: Installation, Configuration Backup and Restore
+ Ticketing tool: Manage Engine Service Desk, Endpoint Central, OP Manager
+ Office 365 
 ---
-
 ## 📁 Projects
 
-### 🔹 [AD-Audit-Scripts](https://github.com/yourusername/AD-Audit-Scripts)
-> PowerShell scripts to automate Active Directory audits (e.g., inactive users, login reports, password expiry).
-
-### 🔹 [VMware-Backup-Checklist](https://github.com/yourusername/VMware-Backup-Checklist)
-> A documentation and script-based backup checklist for VMware environments using Veeam.
-
-### 🔹 [Azure-Automation-Scripts](https://github.com/yourusername/Azure-Automation-Scripts)
-> Useful Azure CLI and PowerShell scripts to manage resources and optimize cost.
+ Manage Engine Service Desk, Endpoint Central, OP Manager, Installation, Configuration Migration, Upgradation and
+Modification
+ File Server Restructure
 
 ---
 
 ## 📜 Certifications
 
-- 🎓 Microsoft Certified: Azure Administrator Associate (AZ-104)
-- 🎓 VMware Certified Technical Associate (VCTA) *(or other relevant certs)*
-- 🎓 ITIL Foundation v4 (optional)
-
+Microsoft Azure- AZ-104
+ Microsoft Azure Administrator Associate
+ Certificate No: - DA875D-K774E2 -Dec 2024
+Diploma in Hardware & Networking (Seed InfoTech Pune)
+ CompTIA A+
+ CompTIA Network+
+ Cisco Certified Network Associate
+ MCSA- Microsoft Certified Solutions Associate
 ---
 
 ## 📫 Contact
