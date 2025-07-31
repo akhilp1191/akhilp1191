@@ -1,6 +1,6 @@
 # 🛠️ System Administrator | IT Infrastructure Specialist
 
-Welcome to my GitHub profile! I’m a System Administrator with 7+ years of experience in managing and maintaining IT infrastructure, including Windows, Active Directory, virtualization platforms.
+Welcome to my GitHub profile! I’m a System Administrator with 8+ years of experience in managing and maintaining IT infrastructure, including Windows, Active Directory, virtualization platforms.
 ---
 ## 👨‍💻 About Me
 
